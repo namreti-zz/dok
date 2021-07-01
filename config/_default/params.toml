@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "RETI Marketing Onboarding"
+title = "Doks"
 titleSeparator = "-"
-titleAddition = "Trang tổng hợp những kiến thức hữu ích dành cho Marketer RETI"
-description = "Trang thông tin giúp Marketer RETI hoà nhập nhanh hơn trong công việc"
+titleAddition = "Modern Documentation Theme"
+description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 
 ## Open Graph
 images = ["doks.png"]
