@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Giới thiệu"
 description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 date: 2020-10-06T08:48:57+00:00
@@ -13,7 +13,7 @@ weight: 100
 toc: true
 ---
 
-## Một số kỹ năng căn bản
+### Một số kỹ năng căn bản
 
 TTS tại RETI sẽ được tham gia các công việc liên quan tới:
 
@@ -31,36 +31,3 @@ Cách xây dựng Content Template - Backlinko. [Click ngay →](https://backlin
 
 Cách xây dựng Content Template - Backlinko. [Click ngay →](https://backlinko.com/hub/content/blog-post-templates/)
 
-### Quick Start
-
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." />}}
-
-One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
-
-## Go further
-
-Recipes, Reference Guides, Extensions, and Showcase.
-
-### Recipes
-
-Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
-
-### Reference Guides
-
-Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
-
-### Extensions
-
-Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/breadcrumb-navigation/)
-
-### Showcase
-
-See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/electric-blocks/)
-
-## Contributing
-
-Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
-
-## Help
-
-Get help on Doks. [Help →]({{< relref "how-to-update" >}})
